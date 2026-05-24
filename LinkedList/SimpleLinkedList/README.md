@@ -31,7 +31,7 @@ A SimpleLinkedList typically supports the following operations:
 - Simple and easy to understand, ideal for beginners  
 - Efficient insertion and deletion at the beginning  
 - Can be extended to **doubly linked lists** or **circular lists**  
-- Implementable in any language that supports structures and references/pointers (`C`, `C++`, `Java`, `Python`, `Java`, etc.)
+- Implementable in any language that supports structures and references/pointers (`C`, `C++`, `Java`, `Python`, etc.)
 
 ---
 
